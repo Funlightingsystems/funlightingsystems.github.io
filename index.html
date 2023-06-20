@@ -4,11 +4,18 @@
   <meta charset="UTF-8">
   <title>Fun Lighting Systems</title>
   <style>
-    /* CSS for modern layout */
+    /* CSS for modern layout and dark mode */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
+      color: #000;
+      background: #fff;
+    }
+
+    body.dark-mode {
+      color: #fff;
+      background: #000;
     }
     
     header {
@@ -43,13 +50,21 @@
     }
     
     .contact-info {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
+      text-align: center;
+      margin-top: 40px;
     }
     
-    .contact-info div {
-      margin-right: 20px;
+    .contact-info form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .contact-info input[type="text"],
+    .contact-info textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
     }
     
     .product-info {
@@ -77,22 +92,21 @@
       margin-top: 40px;
     }
   </style>
+  <script>
+    // JavaScript for dark mode toggle
+    function toggleDarkMode() {
+      var body = document.body;
+      body.classList.toggle("dark-mode");
+    }
+  </script>
 </head>
 <body>
   <header>
     <h1>Fun Lighting Systems (FLS)</h1>
+    <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
   </header>
   
   <div class="container">
-    <div class="section">
-      <h2>Customer Support</h2>
-      <div class="contact-info">
-        <div>
-          <strong>Email:</strong> <a href="mailto:funlightingsystems@gmail.com">funlightingsystems@gmail.com</a>
-        </div>
-      </div>
-    </div>
-    
     <div class="section">
       <h2>Pyro I Lighting Board</h2>
       <div class="product-info">
@@ -130,9 +144,14 @@
     </div>
     
     <div class="section">
-      <h2>ShowBox</h2>
-      <div class="showbox-info">
-        <p>The ShowBox is a powerful backstage control system that allows you to manage lighting cues and run the show seamlessly. With its user-friendly interface and advanced features, it's the perfect companion for any lighting production.</p>
+      <h2>Customer Support</h2>
+      <div class="contact-info">
+        <form action="#" method="POST">
+          <input type="text" name="name" placeholder="Your Name" required>
+          <input type="text" name="email" placeholder="Your Email" required>
+          <textarea name="message" placeholder="Your Message" required></textarea>
+          <input type="submit" value="Send Message">
+        </form>
       </div>
     </div>
   </div>
