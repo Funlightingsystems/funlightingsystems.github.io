@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:92A65EA9-0EC8-4054-AC8F-FAF7A2A24E11</id>
+ <title>Page list Atom feed</title>
+ <updated>2023-07-27T11:42:48-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E31DE74F-1A39-4CDE-9DF3-B04C6D80BDE9</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">E31DE74F-1A39-4CDE-9DF3-B04C6D80BDE9</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2023-07-27T11:42:48.001-06:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E5EFA695-B845-49BE-B692-D9E4A28FC3A7</id>
+  <title>Products</title>
+  <title xmlns="urn:iweb:">Products</title>
+  <in-navbar xmlns="urn:iweb:">E5EFA695-B845-49BE-B692-D9E4A28FC3A7</in-navbar>
+  <link rel="alternate" href="Products/Products.html"/>
+  <updated>2007-01-23T10:29:52-07:00</updated>
+  <content>Products</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:04A2DCCB-184F-459C-8977-2060A93138C2</id>
+  <title>Manuals</title>
+  <title xmlns="urn:iweb:">Manuals</title>
+  <in-navbar xmlns="urn:iweb:">04A2DCCB-184F-459C-8977-2060A93138C2</in-navbar>
+  <link rel="alternate" href="Manuals.html"/>
+  <updated>2023-07-27T11:42:48.002-06:00</updated>
+  <content>Manuals</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F64FD6F3-08CE-41E1-B8CD-8415B755EC87</id>
+  <title>Downloads</title>
+  <title xmlns="urn:iweb:">Downloads</title>
+  <in-navbar xmlns="urn:iweb:">F64FD6F3-08CE-41E1-B8CD-8415B755EC87</in-navbar>
+  <link rel="alternate" href="Downloads.html"/>
+  <updated>2023-07-27T11:42:48.003-06:00</updated>
+  <content>Downloads</content>
+ </entry>
+</feed>

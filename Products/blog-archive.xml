@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Products</title>
+    <link>file://localhost/Users/Griffin/Desktop/Site/Products</link>
+    <description>This page will be updated with the listing of all of our products. Please visit the Archive for our previous discontinued products. </description>
+    <item>
+      <title>LED Matrix</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_LED_Matrix.html</link>
+      <guid isPermaLink="false">7f3e74d0-a297-492d-92b4-4f9c8f9dcfc7</guid>
+      <pubDate>Thu, 27 Jul 2023 11:36:22 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_LED_Matrix.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Stage Control Box</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Stage_Control_Box.html</link>
+      <guid isPermaLink="false">fb7fed05-a352-4384-a319-8537abbbbe28</guid>
+      <pubDate>Thu, 27 Jul 2023 11:30:11 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Stage_Control_Box.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Pyro I</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Pyro_I.html</link>
+      <guid isPermaLink="false">f6efbbed-8741-469f-aecc-a69a87acb636</guid>
+      <pubDate>Thu, 27 Jul 2023 11:21:55 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Pyro_I.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/Griffin/Desktop/Site/Products</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

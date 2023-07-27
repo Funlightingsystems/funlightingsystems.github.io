@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Products</title>
+    <link>file://localhost/Users/Griffin/Desktop/Site/Products/Products.html</link>
+    <description>This page will be updated with the listing of all of our products. Please visit the Archive for our previous discontinued products. </description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>file://localhost/Users/Griffin/Desktop/Site/Products/Products_files/dv1634003_c.jpg</url>
+      <title>Products</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Products.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>This page will be updated with the listing of all of our products. Please visit the Archive for our previous discontinued products. </itunes:subtitle>
+    <itunes:summary>This page will be updated with the listing of all of our products. Please visit the Archive for our previous discontinued products. </itunes:summary>
+    <itunes:image href="file://localhost/Users/Griffin/Desktop/Site/Products/Products_files/dv1634003_c.jpg"/>
+    <language>en</language>
+    <item>
+      <title>LED Matrix</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_LED_Matrix.html</link>
+      <guid isPermaLink="false">7f3e74d0-a297-492d-92b4-4f9c8f9dcfc7</guid>
+      <pubDate>Thu, 27 Jul 2023 11:36:22 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/Griffin/Desktop/Site/Media/IMG_7718.MOV&quot;&gt;&lt;img src=&quot;file://localhost/Users/Griffin/Desktop/Site/Products/Media/IMG_7718.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:313px;&quot;/&gt;&lt;/a&gt;The video is of one of our early prototypes as this is still in heavy development. Please check out the manual for more info!</description>
+      <enclosure url="file://localhost/Users/Griffin/Desktop/Site/Media/IMG_7718.MOV" length="4655936" type="video/quicktime"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:11</itunes:duration>
+      <itunes:subtitle>The video is of one of our early prototypes as this is still in heavy development. Please check out the manual for more info!</itunes:subtitle>
+      <itunes:summary>The video is of one of our early prototypes as this is still in heavy development. Please check out the manual for more info!</itunes:summary>
+    </item>
+    <item>
+      <title>Stage Control Box</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Stage_Control_Box.html</link>
+      <guid isPermaLink="false">fb7fed05-a352-4384-a319-8537abbbbe28</guid>
+      <pubDate>Thu, 27 Jul 2023 11:30:11 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Stage_Control_Box_files/IMG_7738.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/Griffin/Desktop/Site/Products/Media/object003_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;The stage Control box comes in a simplistic mini rackmounted form, this contributes to the overall stability of the unit. This unit can be powered on and forgotten about with how simple it is to use. Connect to your network and you are off to go! </description>
+      <enclosure url="file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Stage_Control_Box_files/IMG_7738.jpg" length="120247" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+    <item>
+      <title>Pyro I</title>
+      <link>file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Pyro_I.html</link>
+      <guid isPermaLink="false">f6efbbed-8741-469f-aecc-a69a87acb636</guid>
+      <pubDate>Thu, 27 Jul 2023 11:21:55 -0600</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Pyro_I_files/IMG_7734.jpg&quot;&gt;&lt;img src=&quot;file://localhost/Users/Griffin/Desktop/Site/Products/Media/object002_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;We are proud to announce our very first custom lighting board, It comes in many colour options and has high customizability. The picture above shows the unit with various different options to put on the individual dimmer switches. We can custom design and manufacture ones to suit your needs. This lighting board was designed to be as easy to use as possible. When used in tandem with an IPad running StageLights it becomes a lighting powerhouse. It is compatable with both the in house developed lighting backend system along with Art-Net, however these settings can not be used at the same time and changing them requires reflashing the device. </description>
+      <enclosure url="file://localhost/Users/Griffin/Desktop/Site/Products/Entries/2023/7/27_Pyro_I_files/IMG_7734.jpg" length="82257" type="image/jpeg"/>
+      <itunes:block>yes</itunes:block>
+    </item>
+  </channel>
+</rss>

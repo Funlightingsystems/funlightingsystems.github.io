@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="2D36242B-1E53-4CE7-904D-E87F11240AE7">
+  <lastEdited clientType="local-build-20230727" date="2023-07-27 17:42:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Products&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Pyro I</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We are proud to announce our very first custom lighting board, It comes in many colour options and has high customizability. The picture above shows the unit with various different options to put on the individual dimmer switches. We can custom design and manufacture ones to suit your needs. This lighting board was designed to be as easy to use as possible. When used in tandem with an IPad running StageLights it becomes a lighting powerhouse. It is compatable with both the in house developed lighting backend system along with Art-Net, however these settings can not be used at the same time and changing them requires reflashing the device. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Pyro_I_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
